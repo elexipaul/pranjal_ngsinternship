@@ -22,7 +22,8 @@ For the tool to work without any changes and to aid in resolving paths for each 
 
 Create a directory called "softwares" in $HOME directory. Use sudo if prompted for permissions.
 Extract or clone every tool in the $HOME/softwares directory using installation instructions specific for each tool.
-Make a directory in Desktop called "ngs_analysis" and copy all fastq or fastq.gz files into this directory. Make this as working directory.
+Make a directory in Desktop called "ngs_analysis" and copy all fastq or fastq.gz files into this directory. 
+Make this as working directory.
 Create sub-directories for each tool in the current working directory. Preferably all the genome files and database files should be in the same folder
 Append the exact path to each program. It depends on the location where you installed them. In the script, I used redirect (based on my installation location).
 Enter accession ids or file names (without .fastq or .fastq.gz extensions) separated by spaces and within double quotes. Change variables "f" and "r" depending on the extension of file. Alternately you can compress .fastq files using gzip to conserve space
