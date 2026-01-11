@@ -314,4 +314,4 @@ Quantification performed on a 16 GB local system using the Subread package.
  Differential expression analysis was performed using DESeq2 with an FDR cutoff of 0.05 and a minimum fold-change threshold of 2. Standard Wald test was used and independent filtering was enabled.
  ![Quality](volcano_plot.png)
  ![Quality](ma_plot.png)
- ![Quality](heatmap_main (1).png)
+ ![Quality](heatmap_main(1).png)
