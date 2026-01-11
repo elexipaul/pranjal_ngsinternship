@@ -60,7 +60,7 @@ Sodium butyrate (NaB) is a short-chain fatty acid (SCFA) produced by gut microbi
 
 
 ## 3. Key Findings
-![Pathway](Integrated_effect_size_ranking_of_KEGG_pathways_showing_TLR_signaling_as_dominant_mechanism_of_sodium_butyrate-mediated_B_cell_reprogramming,_with_secondary_integration_through_cytokine_and_kinase_signaling_axes)
+![Pathway](Integrated_effect_size_ranking_of_KEGG_pathways_showing_TLR_signaling_as_dominant_mechanism_of_sodium_butyrate-mediated_B_cell_reprogramming,_with_secondary_integration_through_cytokine_and_kinase_signaling_axes.png)
 
 ### 🚀 Finding 1: Massive IL-10 Upregulation
 
@@ -314,4 +314,4 @@ Quantification performed on a 16 GB local system using the Subread package.
  Differential expression analysis was performed using DESeq2 with an FDR cutoff of 0.05 and a minimum fold-change threshold of 2. Standard Wald test was used and independent filtering was enabled.
  ![Quality](volcano_plot.png)
  ![Quality](ma_plot.png)
- ![Quality](heatmap_main(1).png)
+ ![Quality](heatmap_main (1).png)
